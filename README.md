@@ -35,10 +35,6 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
 
-## 📊 GitHub Stats
-![Jayson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jacosta57&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jacosta57&layout=compact&theme=radical)
-
 ## 🏆 Certifications
 AWS Certified Developer - Associate  
 

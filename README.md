@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 **Computer Engineering Student** at Iowa State University  
-💼 **Software Engineer Apprentice & Delivery Lead** at Source Allies
+💼 **Software Engineer Apprentice & Delivery Lead** at Source Allies  
 ☁️ **AWS Certified Developer - Associate** 
 
 ## 🛠️ Tech Stack

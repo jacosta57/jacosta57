@@ -1,15 +1,9 @@
 # Hi there, I'm Jayson Acosta! 👋
 
 ## About Me
-🎓 **Computer Engineering Student** at Iowa State University (Graduating May 2026)  
-💼 **Software Engineer Apprentice & Delivery Lead** at Source Allies (May 2025 to August 2025)  
-☁️ **AWS Certified Developer - Associate**  
-🌟 Passionate about building scalable full-stack applications and AI-powered solutions
-
-## 🚀 What I'm Working On
-🤖 **Project Helper AI Chatbot** - AI-powered code repository analysis using LangChain and AWS Bedrock  
-💼 **Portfolio Website** - Personal portfolio showcasing my projects and experience  
-⚙️ **NixOS Configuration** - Personal NixOS system configuration and dotfiles  
+🎓 **Computer Engineering Student** at Iowa State University  
+💼 **Software Engineer Apprentice & Delivery Lead** at Source Allies
+☁️ **AWS Certified Developer - Associate** 
 
 ## 🛠️ Tech Stack
 
@@ -47,6 +41,3 @@ AWS Certified Developer - Associate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayson-acosta)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](http://jaysonacosta.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@jaysonacosta.com)
-
----
-⚡ **Fun Fact**: I'm passionate about both software engineering and hardware-based projects, bridging the gap between code and physical systems!
